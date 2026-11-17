@@ -1,39 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="2" group-title="Nacionales",CANAL DE LAS ESTRELLAS
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales" tvg-chno="2",CANAL DE LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-chno="3" group-title="Nacionales",AZTECA UNO
-http://177.245.131
-#EXTINF:-1 tvg-chno="4" group-title="Nacionales",FORO TV
-https://univision.com
-#EXTINF:-1 tvg-chno="6" group-title="Nacionales",IMAGEN TV
-https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1 tvg-chno="11" group-title="Culturales",CANAL 11 DE MEXICO
-https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" group-title="Nacionales",MULTIMEDIOS MONTERREY
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-chno="13" group-title="Culturales",CANAL JUDICIAL
-https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
-#EXTINF:-1 tvg-chno="14" group-title="Culturales",CANAL CONGRESO
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="15" group-title="Educativos",APRENDE TV
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-chno="17" group-title="Culturales",UNA VOZ CON TODOS (CANAL 14)
-https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
-#EXTINF:-1 tvg-chno="18" group-title="Culturales",TV UNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1747392996_DVR.m3u8
-#EXTINF:-1 tvg-chno="19" group-title="Culturales",CANAL 22 DE MEXICO
+
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-name="AZTECA UNO" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Azteca%20Uno.png" group-title="Nacionales" tvg-chno="3",AZTECA UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Nacionales" tvg-chno="5",CANAL 5
+http://45.181.87.106/CANAL5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Imagen_Television_logo.svg" group-title="Nacionales" tvg-chno="6",IMAGEN TV
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-name="AZTECA 7" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Azteca%207.png" group-title="Nacionales" tvg-chno="7",AZTECA 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-name="CANAL JUDICIAL" group-title="Culturales" tvg-chno="13",CANAL JUDICIAL
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IngenioTV.mx@SD" tvg-name="INGENIO TV" group-title="Educativos" tvg-chno="16",INGENIO TV
+https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
+
+#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-name="CANAL 22 DE MEXICO" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2022.png" group-title="Culturales" tvg-chno="19",CANAL 22 DE MEXICO
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="20" group-title="Infantiles",CANAL ONCE NIÑOS
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="30" group-title="Noticias",MILENIO TV
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-chno="31" group-title="Noticias",TELEFORMULA
+
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-name="AZ CORAZON" group-title="Variedades" tvg-chno="27",AZ CORAZON
+http://200.115.120.1:8000/play/ca020/index.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-name="TL NOVELAS" group-title="Variedades" tvg-chno="28",TL NOVELAS
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="TELEFORMULA" group-title="Noticias" tvg-chno="31",TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-chno="34" group-title="Noticias",ADN 40
+
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/ADN%2040.png" group-title="Noticias" tvg-chno="34",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-chno="42" group-title="Musica",TELEHIT
-https://streamer1.nexgen.bz/TELEHIT/index.m3u8
-#EXTINF:-1 tvg-chno="47" group-title="Musica",TELERITMO
+
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-name="TELEHIT" group-title="Musica" tvg-chno="42",TELEHIT
+http://190.61.47.54:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-name="BANDAMAX" group-title="Musica" tvg-chno="44",BANDAMAX
+https://streaming.onnethn.com/Bandamax/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-name="TELERITMO" group-title="Musica" tvg-chno="47",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-chno="53" group-title="Nacionales",AZTECA UNO -1 HRS
-https://otteravision.com
+
+#EXTINF:-1 tvg-id="AztecaUno.mx@Plus1" tvg-name="AZTECA UNO -1 HRS" group-title="Nacionales" tvg-chno="53",AZTECA UNO -1 HRS
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="DISTRITO COMEDIA" group-title="Cable" tvg-chno="55",DISTRITO COMEDIA
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-name="HOME & HEALTH" group-title="Variedades" tvg-chno="57",HOME & HEALTH
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-name="AZTECA CINEMA" group-title="Peliculas" tvg-chno="62",AZTECA CINEMA
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-name="GOLDEN" group-title="Peliculas" tvg-chno="63",GOLDEN
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-name="GOLDEN EDGE" group-title="Peliculas" tvg-chno="64",GOLDEN EDGE
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+
+#EXTINF:-1 tvg-id="Panico.mx@SD" tvg-name="PANICO" group-title="Peliculas" tvg-chno="69",PANICO
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-name="DE PELICULA" group-title="Peliculas" tvg-chno="71",DE PELICULA
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+
+#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-name="MARIA VISION" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Maria%20Vision.png" group-title="Religiosos" tvg-chno="80",MARIA VISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
