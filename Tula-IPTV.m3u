@@ -1,133 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="2" group-title="Nacionales",CANAL DE LAS ESTRELLAS
-http://ip:puerto/canal/estrellas.ts
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Nacionales",AZTECA UNO
-http://ip:puerto/canal/aztecauno.ts
+http://177.245.131
 #EXTINF:-1 tvg-chno="4" group-title="Nacionales",FORO TV
-http://ip:puerto/canal/forotv.ts
-#EXTINF:-1 tvg-chno="5" group-title="Nacionales",CANAL 5
-http://ip:puerto/canal/canal5.ts
+https://univision.com
 #EXTINF:-1 tvg-chno="6" group-title="Nacionales",IMAGEN TV
-http://ip:puerto/canal/imagentv.ts
-#EXTINF:-1 tvg-chno="7" group-title="Nacionales",AZTECA 7
-http://ip:puerto/canal/azteca7.ts
-#EXTINF:-1 tvg-chno="9" group-title="Nacionales",GALA TV
-http://ip:puerto/canal/galatv.ts
-#EXTINF:-1 tvg-chno="10" group-title="Cable",UNICABLE
-http://ip:puerto/canal/unicable.ts
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Culturales",CANAL 11 DE MEXICO
-http://ip:puerto/canal/canal11.ts
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="Nacionales",MULTIMEDIOS MONTERREY
-http://ip:puerto/canal/multimedios.ts
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="Culturales",CANAL JUDICIAL
-http://ip:puerto/canal/judicial.ts
+https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Culturales",CANAL CONGRESO
-http://ip:puerto/canal/congreso.ts
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="15" group-title="Educativos",APRENDE TV
-http://ip:puerto/canal/aprendetv.ts
-#EXTINF:-1 tvg-chno="16" group-title="Educativos",INGENIO TV
-http://ip:puerto/canal/ingeniotv.ts
-#EXTINF:-1 tvg-chno="17" group-title="Culturales",UNA VOZ CON TODOS
-http://ip:puerto/canal/unavozcontodos.ts
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="Culturales",UNA VOZ CON TODOS (CANAL 14)
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-chno="18" group-title="Culturales",TV UNAM
-http://ip:puerto/canal/tvunam.ts
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1747392996_DVR.m3u8
 #EXTINF:-1 tvg-chno="19" group-title="Culturales",CANAL 22 DE MEXICO
-http://ip:puerto/canal/canal22.ts
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="20" group-title="Infantiles",CANAL ONCE NIÑOS
-http://ip:puerto/canal/onceninos.ts
-#EXTINF:-1 tvg-chno="21" group-title="Infantiles",BABY TV
-http://ip:puerto/canal/babytv.ts
-#EXTINF:-1 tvg-chno="23" group-title="Infantiles",DISNEY CHANNEL
-http://ip:puerto/canal/disneychannel.ts
-#EXTINF:-1 tvg-chno="24" group-title="Infantiles",DISCOVERY KIDS
-http://ip:puerto/canal/discoverykids.ts
-#EXTINF:-1 tvg-chno="26" group-title="Infantiles",NICKELODEON
-http://ip:puerto/canal/nickelodeon.ts
-#EXTINF:-1 tvg-chno="27" group-title="Variedades",AZ CORAZON
-http://ip:puerto/canal/azcorazon.ts
-#EXTINF:-1 tvg-chno="28" group-title="Variedades",TL NOVELAS
-http://ip:puerto/canal/tlnovelas.ts
-#EXTINF:-1 tvg-chno="29" group-title="Noticias",EXCELSIOR TV
-http://ip:puerto/canal/excelsiortv.ts
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="Noticias",MILENIO TV
-http://ip:puerto/canal/mileniotv.ts
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-chno="31" group-title="Noticias",TELEFORMULA
-http://ip:puerto/canal/teleformula.ts
-#EXTINF:-1 tvg-chno="32" group-title="Noticias",FOX NEWS
-http://ip:puerto/canal/foxnews.ts
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="Noticias",ADN 40
-http://ip:puerto/canal/adn40.ts
-#EXTINF:-1 tvg-chno="35" group-title="Deportes",TVC DEPORTES
-http://ip:puerto/canal/tvcdeportes.ts
-#EXTINF:-1 tvg-chno="37" group-title="Deportes",ESPN 2
-http://ip:puerto/canal/espn2.ts
-#EXTINF:-1 tvg-chno="38" group-title="Deportes",ESPN
-http://ip:puerto/canal/espn.ts
-#EXTINF:-1 tvg-chno="39" group-title="Deportes",FOX SPORTS
-http://ip:puerto/canal/foxsports.ts
-#EXTINF:-1 tvg-chno="40" group-title="Deportes",FOX SPORTS 2
-http://ip:puerto/canal/foxsports2.ts
-#EXTINF:-1 tvg-chno="41" group-title="Deportes",FOX SPORTS 3
-http://ip:puerto/canal/foxsports3.ts
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-chno="42" group-title="Musica",TELEHIT
-http://ip:puerto/canal/telehit.ts
-#EXTINF:-1 tvg-chno="44" group-title="Musica",BANDAMAX
-http://ip:puerto/canal/bandamax.ts
-#EXTINF:-1 tvg-chno="46" group-title="Musica",MTV
-http://ip:puerto/canal/mtv.ts
+https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 #EXTINF:-1 tvg-chno="47" group-title="Musica",TELERITMO
-http://ip:puerto/canal/teleritmo.ts
-#EXTINF:-1 tvg-chno="48" group-title="Musica",AZ CLIC
-http://ip:puerto/canal/azclic.ts
-#EXTINF:-1 tvg-chno="49" group-title="Documentales",DISCOVERY CHANNEL
-http://ip:puerto/canal/discovery.ts
-#EXTINF:-1 tvg-chno="50" group-title="Documentales",ID (INVESTIGATION DISCOVERY)
-http://ip:puerto/canal/id.ts
-#EXTINF:-1 tvg-chno="51" group-title="Documentales",NATIONAL GEOGRAPHIC CHANNEL
-http://ip:puerto/canal/natgeo.ts
-#EXTINF:-1 tvg-chno="52" group-title="Documentales",NAT. GEO. WILD
-http://ip:puerto/canal/natgeowild.ts
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-chno="53" group-title="Nacionales",AZTECA UNO -1 HRS
-http://ip:puerto/canal/aztecauno1h.ts
-#EXTINF:-1 tvg-chno="54" group-title="Nacionales",AZTECA UNO -2 HRS
-http://ip:puerto/canal/aztecauno2h.ts
-#EXTINF:-1 tvg-chno="55" group-title="Cable",DISTRITO COMEDIA
-http://ip:puerto/canal/distritocomedia.ts
-#EXTINF:-1 tvg-chno="56" group-title="Cable",COMEDY CENTRAL
-http://ip:puerto/canal/comedycentral.ts
-#EXTINF:-1 tvg-chno="57" group-title="Variedades",HOME & HEALTH
-http://ip:puerto/canal/homehealth.ts
-#EXTINF:-1 tvg-chno="60" group-title="Peliculas",STAR CHANNEL
-http://ip:puerto/canal/fox.ts
-#EXTINF:-1 tvg-chno="61" group-title="Internacionales",GUATEVISION
-http://ip:puerto/canal/guatevision.ts
-#EXTINF:-1 tvg-chno="62" group-title="Peliculas",AZTECA CINEMA
-http://ip:puerto/canal/aztecacinema.ts
-#EXTINF:-1 tvg-chno="63" group-title="Peliculas",GOLDEN
-http://ip:puerto/canal/golden.ts
-#EXTINF:-1 tvg-chno="64" group-title="Peliculas",GOLDEN EDGE
-http://ip:puerto/canal/edge.ts
-#EXTINF:-1 tvg-chno="65" group-title="Peliculas",STUDIO UNIVERSAL
-http://ip:puerto/canal/studiouniversal.ts
-#EXTINF:-1 tvg-chno="66" group-title="Peliculas",UNIVERSAL TV
-http://ip:puerto/canal/universal.ts
-#EXTINF:-1 tvg-chno="67" group-title="Peliculas",CINEMA PLATINO
-http://ip:puerto/canal/cinemaplatino.ts
-#EXTINF:-1 tvg-chno="69" group-title="Peliculas",PANICO
-http://ip:puerto/canal/panico.ts
-#EXTINF:-1 tvg-chno="70" group-title="Peliculas",CINE MEXICANO
-http://ip:puerto/canal/cinemexicano.ts
-#EXTINF:-1 tvg-chno="71" group-title="Peliculas",DE PELICULA
-http://ip:puerto/canal/depelicula.ts
-#EXTINF:-1 tvg-chno="73" group-title="Peliculas",FX
-http://ip:puerto/canal/fx.ts
-#EXTINF:-1 tvg-chno="74" group-title="Peliculas",CINECANAL
-http://ip:puerto/canal/cinecanal.ts
-#EXTINF:-1 tvg-chno="75" group-title="Peliculas",USA NETWORK
-http://ip:puerto/canal/usanetwork.ts
-#EXTINF:-1 tvg-chno="77" group-title="Cable",TVC
-http://ip:puerto/canal/tvc.ts
-#EXTINF:-1 tvg-chno="78" group-title="Religiosos",ENLACE
-http://ip:puerto/canal/enlace.ts
-#EXTINF:-1 tvg-chno="80" group-title="Religiosos",MARIA VISION
-http://ip:puerto/canal/mariavision.ts
+https://otteravision.com
