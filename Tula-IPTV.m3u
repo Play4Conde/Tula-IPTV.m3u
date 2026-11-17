@@ -78,7 +78,7 @@ http://ip:puerto/canal/mtv.ts
 #EXTINF:-1 tvg-chno="47" group-title="Musica",TELERITMO
 http://ip:puerto/canal/teleritmo.ts
 #EXTINF:-1 tvg-chno="48" group-title="Musica",AZ CLIC
-http://ip:puerto/canal/azclici.ts
+http://ip:puerto/canal/azclic.ts
 #EXTINF:-1 tvg-chno="49" group-title="Documentales",DISCOVERY CHANNEL
 http://ip:puerto/canal/discovery.ts
 #EXTINF:-1 tvg-chno="50" group-title="Documentales",ID (INVESTIGATION DISCOVERY)
@@ -107,7 +107,7 @@ http://ip:puerto/canal/aztecacinema.ts
 http://ip:puerto/canal/golden.ts
 #EXTINF:-1 tvg-chno="64" group-title="Peliculas",GOLDEN EDGE
 http://ip:puerto/canal/edge.ts
-#EXTINF:-1 tvg-chno="66" group-title="Peliculas",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-chno="65" group-title="Peliculas",STUDIO UNIVERSAL
 http://ip:puerto/canal/studiouniversal.ts
 #EXTINF:-1 tvg-chno="66" group-title="Peliculas",UNIVERSAL TV
 http://ip:puerto/canal/universal.ts
@@ -124,7 +124,7 @@ http://ip:puerto/canal/fx.ts
 #EXTINF:-1 tvg-chno="74" group-title="Peliculas",CINECANAL
 http://ip:puerto/canal/cinecanal.ts
 #EXTINF:-1 tvg-chno="75" group-title="Peliculas",USA NETWORK
-http://ip:puerto/canal/syfy.ts
+http://ip:puerto/canal/usanetwork.ts
 #EXTINF:-1 tvg-chno="77" group-title="Cable",TVC
 http://ip:puerto/canal/tvc.ts
 #EXTINF:-1 tvg-chno="78" group-title="Religiosos",ENLACE
