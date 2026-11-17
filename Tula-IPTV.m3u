@@ -66,8 +66,8 @@ http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-chno="25" group-title="Entretenimiento",ZUN
 # URL PENDIENTE
 
-#EXTINF:-1 tvg-chno="26" group-title="Infantiles",NICKELODEON
-# URL PENDIENTE
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon Latin America (1080p)
+http://181.78.79.131:8000/play/a0qm
 
 #EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-chno="27" group-title="Entretenimiento",AZ CORAZON
 http://200.115.120.1:8000/play/ca020/index.m3u8
