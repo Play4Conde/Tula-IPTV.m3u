@@ -1,73 +1,211 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Nacionales" tvg-chno="2",CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-chno="2" group-title="Nacionales",CANAL DE LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-name="AZTECA UNO" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Azteca%20Uno.png" group-title="Nacionales" tvg-chno="3",AZTECA UNO
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-chno="3" group-title="Nacionales",AZTECA UNO
 http://38.44.109.41:8003/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Nacionales" tvg-chno="5",CANAL 5
+#EXTINF:-1 tvg-chno="4" group-title="Nacionales",FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-chno="5" group-title="Nacionales",CANAL 5
 http://45.181.87.106/CANAL5HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Imagen_Television_logo.svg" group-title="Nacionales" tvg-chno="6",IMAGEN TV
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-chno="6" group-title="Nacionales",IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-name="AZTECA 7" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Azteca%207.png" group-title="Nacionales" tvg-chno="7",AZTECA 7
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-chno="7" group-title="Nacionales",AZTECA 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 
-#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-name="CANAL JUDICIAL" group-title="Culturales" tvg-chno="13",CANAL JUDICIAL
+#EXTINF:-1 tvg-chno="9" group-title="Nacionales",NU9VE
+https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" group-title="Entretenimiento",UNICABLE
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-chno="11" group-title="Nacionales",CANAL ONCE
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12" group-title="Nacionales",MULTIMEDIOS MONTERREY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-chno="13" group-title="Culturales",CANAL JUDICIAL
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IngenioTV.mx@SD" tvg-name="INGENIO TV" group-title="Educativos" tvg-chno="16",INGENIO TV
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD" tvg-chno="14" group-title="Culturales",CANAL DEL CONGRESO
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 tvg-chno="15" group-title="Educativos",APRENDE TV
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="IngenioTV.mx@SD" tvg-chno="16" group-title="Educativos",INGENIO TV
 https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 
-#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-name="CANAL 22 DE MEXICO" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2022.png" group-title="Culturales" tvg-chno="19",CANAL 22 DE MEXICO
+#EXTINF:-1 tvg-chno="17" group-title="Culturales",UNA VOZ CON TODOS
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="18" group-title="Culturales",TV UNAM
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-chno="19" group-title="Culturales",CANAL 22 DE MEXICO
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-name="AZ CORAZON" group-title="Variedades" tvg-chno="27",AZ CORAZON
+#EXTINF:-1 tvg-chno="20" group-title="Infantiles",CANAL ONCE NIÑOS
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-chno="21" group-title="Infantiles",BABY TV
+http://38.44.109.41:8003/play/a0eh
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-chno="23" group-title="Infantiles",DISNEY CHANNEL
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" tvg-chno="24" group-title="Infantiles",DISCOVERY KIDS
+http://181.224.200.5:2277/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-chno="25" group-title="Entretenimiento",ZUN
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="26" group-title="Infantiles",NICKELODEON
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-chno="27" group-title="Entretenimiento",AZ CORAZON
 http://200.115.120.1:8000/play/ca020/index.m3u8
 
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-name="TL NOVELAS" group-title="Variedades" tvg-chno="28",TL NOVELAS
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-chno="28" group-title="Entretenimiento",TL NOVELAS
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
 
-#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="TELEFORMULA" group-title="Noticias" tvg-chno="31",TELEFORMULA
+#EXTINF:-1 tvg-chno="30" group-title="Noticias",MILENIO TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-chno="31" group-title="Noticias",TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/ADN%2040.png" group-title="Noticias" tvg-chno="34",ADN 40
+#EXTINF:-1 tvg-chno="32" group-title="Noticias",FOX NEWS
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="33" group-title="Noticias",AZ NOTICIAS
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-chno="34" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-name="TELEHIT" group-title="Musica" tvg-chno="42",TELEHIT
+#EXTINF:-1 tvg-chno="35" group-title="Deportes",TVC DEPORTES
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="36" group-title="Información",GENERADO CANAL
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-chno="37" group-title="Deportes",ESPN 2
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-chno="38" group-title="Deportes",ESPN
+http://168.228.44.241:9997/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-chno="39" group-title="Deportes",FOX SPORTS
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-chno="40" group-title="Deportes",FOX SPORTS 2
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="41" group-title="Deportes",FOX SPORTS 3
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-chno="42" group-title="Musica",TELEHIT
 http://190.61.47.54:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-name="BANDAMAX" group-title="Musica" tvg-chno="44",BANDAMAX
+#EXTINF:-1 tvg-chno="43" group-title="Entretenimiento",RMS
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-chno="44" group-title="Musica",BANDAMAX
 https://streaming.onnethn.com/Bandamax/index.m3u8
 
-#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-name="TELERITMO" group-title="Musica" tvg-chno="47",TELERITMO
+#EXTINF:-1 tvg-chno="45" group-title="Musica",VH1
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-chno="46" group-title="Musica",MTV
+http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-chno="47" group-title="Musica",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="AztecaUno.mx@Plus1" tvg-name="AZTECA UNO -1 HRS" group-title="Nacionales" tvg-chno="53",AZTECA UNO -1 HRS
+#EXTINF:-1 tvg-chno="48" group-title="Entretenimiento",AZ CLIC
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-chno="49" group-title="Documentales",DISCOVERY CHANNEL
+http://45.171.64.30:6060/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-chno="50" group-title="Documentales",INVESTIGATION DISCOVERY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-chno="51" group-title="Documentales",NATIONAL GEOGRAPHIC
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-chno="53" group-title="Nacionales",AZTECA UNO +1
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="DISTRITO COMEDIA" group-title="Cable" tvg-chno="55",DISTRITO COMEDIA
+#EXTINF:-1 tvg-chno="54" group-title="Nacionales",AZTECA UNO +2
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-chno="55" group-title="Entretenimiento",DISTRITO COMEDIA
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-name="HOME & HEALTH" group-title="Variedades" tvg-chno="57",HOME & HEALTH
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-chno="56" group-title="Entretenimiento",COMEDY CENTRAL
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-chno="57" group-title="Entretenimiento",HOME & HEALTH
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
-#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-name="AZTECA CINEMA" group-title="Peliculas" tvg-chno="62",AZTECA CINEMA
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-chno="60" group-title="Entretenimiento",STAR CHANNEL
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-chno="61" group-title="Internacionales",GUATEVISION
+http://200.115.120.1:8000/play/ca066/index.m3u8
+
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-chno="62" group-title="Peliculas",AZTECA CINEMA
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 
-#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-name="GOLDEN" group-title="Peliculas" tvg-chno="63",GOLDEN
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-chno="63" group-title="Peliculas",GOLDEN
 http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
 
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-name="GOLDEN EDGE" group-title="Peliculas" tvg-chno="64",GOLDEN EDGE
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-chno="64" group-title="Peliculas",GOLDEN EDGE
 http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 
-#EXTINF:-1 tvg-id="Panico.mx@SD" tvg-name="PANICO" group-title="Peliculas" tvg-chno="69",PANICO
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-chno="66" group-title="Peliculas",STUDIO UNIVERSAL
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-chno="66" group-title="Peliculas",UNIVERSAL TV
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+
+#EXTINF:-1 tvg-chno="67" group-title="Peliculas",CINEMA PLATINO
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="68" group-title="Peliculas",CINEMA PLATINO 2
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="Panico.mx@SD" tvg-chno="69" group-title="Peliculas",PANICO
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-name="DE PELICULA" group-title="Peliculas" tvg-chno="71",DE PELICULA
+#EXTINF:-1 tvg-chno="70" group-title="Peliculas",CINE MEXICANO
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-chno="71" group-title="Peliculas",DE PELICULA
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 
-#EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-name="MARIA VISION" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Maria%20Vision.png" group-title="Religiosos" tvg-chno="80",MARIA VISION
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-chno="73" group-title="Entretenimiento",FX
+http://15.204.246.24:8080/FXHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-chno="74" group-title="Peliculas",CINECANAL
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+
+#EXTINF:-1 tvg-chno="75" group-title="Entretenimiento",SYFY
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-chno="77" group-title="Entretenimiento",TVC
+# URL PENDIENTE
+
+#EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-chno="78" group-title="Religiosos",ENLACE
+http://45.5.117.57:8999/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr@SD" tvg-chno="79" group-title="Religiosos",ENLACE JUVENIL
+https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
