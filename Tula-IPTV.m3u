@@ -1,0 +1,134 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="2" tvg-name="Canal de las Estrellas",CANAL DE LAS ESTRELLAS
+http://ip:puerto/canal/estrellas.ts
+#EXTINF:-1 tvg-chno="3" tvg-name="Azteca Uno",AZTECA UNO
+http://ip:puerto/canal/aztecauno.ts
+#EXTINF:-1 tvg-chno="4" tvg-name="Foro TV",FORO TV
+http://ip:puerto/canal/forotv.ts
+#EXTINF:-1 tvg-chno="5" tvg-name="Canal 5",CANAL 5
+http://ip:puerto/canal/canal5.ts
+#EXTINF:-1 tvg-chno="6" tvg-name="Imagen TV",IMAGEN TV
+http://ip:puerto/canal/imagentv.ts
+#EXTINF:-1 tvg-chno="7" tvg-name="Azteca 7",AZTECA 7
+http://ip:puerto/canal/azteca7.ts
+#EXTINF:-1 tvg-chno="9" tvg-name="Gala TV",GALA TV
+http://ip:puerto/canal/galatv.ts
+#EXTINF:-1 tvg-chno="10" tvg-name="Unicable",UNICABLE
+http://ip:puerto/canal/unicable.ts
+#EXTINF:-1 tvg-chno="11" tvg-name="Canal 11 de Mexico",CANAL 11 DE MEXICO
+http://ip:puerto/canal/canal11.ts
+#EXTINF:-1 tvg-chno="12" tvg-name="Multimedios Monterrey",MULTIMEDIOS MONTERREY
+http://ip:puerto/canal/multimedios.ts
+#EXTINF:-1 tvg-chno="13" tvg-name="Canal Judicial",CANAL JUDICIAL
+http://ip:puerto/canal/judicial.ts
+#EXTINF:-1 tvg-chno="14" tvg-name="Canal Congreso",CANAL CONGRESO
+http://ip:puerto/canal/congreso.ts
+#EXTINF:-1 tvg-chno="15" tvg-name="Aprende TV",APRENDE TV
+http://ip:puerto/canal/aprendetv.ts
+#EXTINF:-1 tvg-chno="16" tvg-name="Ingenio TV",INGENIO TV
+http://ip:puerto/canal/ingeniotv.ts
+#EXTINF:-1 tvg-chno="17" tvg-name="Una Voz con Todos",UNA VOZ CON TODOS
+http://ip:puerto/canal/unavozcontodos.ts
+#EXTINF:-1 tvg-chno="18" tvg-name="TV UNAM",TV UNAM
+http://ip:puerto/canal/tvunam.ts
+#EXTINF:-1 tvg-chno="19" tvg-name="Canal 22 de Mexico",CANAL 22 DE MEXICO
+http://ip:puerto/canal/canal22.ts
+#EXTINF:-1 tvg-chno="20" tvg-name="Canal Once Ninos",CANAL ONCE NIÑOS
+http://ip:puerto/canal/onceninos.ts
+#EXTINF:-1 tvg-chno="21" tvg-name="Baby TV",BABY TV
+http://ip:puerto/canal/babytv.ts
+#EXTINF:-1 tvg-chno="23" tvg-name="Disney Channel",DISNEY CHANNEL
+http://ip:puerto/canal/disneychannel.ts
+#EXTINF:-1 tvg-chno="24" tvg-name="Discovery Kids",DISCOVERY KIDS
+http://ip:puerto/canal/discoverykids.ts
+#EXTINF:-1 tvg-chno="26" tvg-name="Nickelodeon",NICKELODEON
+http://ip:puerto/canal/nickelodeon.ts
+#EXTINF:-1 tvg-chno="27" tvg-name="Az Corazon",AZ CORAZON
+http://ip:puerto/canal/azcorazon.ts
+#EXTINF:-1 tvg-chno="28" tvg-name="TL Novelas",TL NOVELAS
+http://ip:puerto/canal/tlnovelas.ts
+#EXTINF:-1 tvg-chno="29" tvg-name="Excelsior TV",EXCELSIOR TV
+http://ip:puerto/canal/excelsiortv.ts
+#EXTINF:-1 tvg-chno="30" tvg-name="Milenio TV",MILENIO TV
+http://ip:puerto/canal/mileniotv.ts
+#EXTINF:-1 tvg-chno="31" tvg-name="Teleformula",TELEFORMULA
+http://ip:puerto/canal/teleformula.ts
+#EXTINF:-1 tvg-chno="32" tvg-name="Fox News",FOX NEWS
+http://ip:puerto/canal/foxnews.ts
+#EXTINF:-1 tvg-chno="34" tvg-name="ADN 40",ADN 40
+http://ip:puerto/canal/adn40.ts
+#EXTINF:-1 tvg-chno="35" tvg-name="TVC Deportes",TVC DEPORTES
+http://ip:puerto/canal/tvcdeportes.ts
+#EXTINF:-1 tvg-chno="37" tvg-name="ESPN 2",ESPN 2
+http://ip:puerto/canal/espn2.ts
+#EXTINF:-1 tvg-chno="38" tvg-name="ESPN",ESPN
+http://ip:puerto/canal/espn.ts
+#EXTINF:-1 tvg-chno="39" tvg-name="Fox Sports",FOX SPORTS
+http://ip:puerto/canal/foxsports.ts
+#EXTINF:-1 tvg-chno="40" tvg-name="Fox Sports 2",FOX SPORTS 2
+http://ip:puerto/canal/foxsports2.ts
+#EXTINF:-1 tvg-chno="41" tvg-name="Fox Sports 3",FOX SPORTS 3
+http://ip:puerto/canal/foxsports3.ts
+#EXTINF:-1 tvg-chno="42" tvg-name="Telehit",TELEHIT
+http://ip:puerto/canal/telehit.ts
+#EXTINF:-1 tvg-chno="44" tvg-name="Bandamax",BANDAMAX
+http://ip:puerto/canal/bandamax.ts
+#EXTINF:-1 tvg-chno="46" tvg-name="MTV",MTV
+http://ip:puerto/canal/mtv.ts
+#EXTINF:-1 tvg-chno="47" tvg-name="Teleritmo",TELERITMO
+http://ip:puerto/canal/teleritmo.ts
+#EXTINF:-1 tvg-chno="48" tvg-name="Az Clic",AZ CLIC
+http://ip:puerto/canal/azclici.ts
+#EXTINF:-1 tvg-chno="49" tvg-name="Discovery Channel",DISCOVERY CHANNEL
+http://ip:puerto/canal/discovery.ts
+#EXTINF:-1 tvg-chno="50" tvg-name="ID (Investigation Discovery)",ID (INVESTIGATION DISCOVERY)
+http://ip:puerto/canal/id.ts
+#EXTINF:-1 tvg-chno="51" tvg-name="National Geographic Channel",NATIONAL GEOGRAPHIC CHANNEL
+http://ip:puerto/canal/natgeo.ts
+#EXTINF:-1 tvg-chno="52" tvg-name="Nat. Geo. Wild",NAT. GEO. WILD
+http://ip:puerto/canal/natgeowild.ts
+#EXTINF:-1 tvg-chno="53" tvg-name="Azteca Uno -1 Hrs",AZTECA UNO -1 HRS
+http://ip:puerto/canal/aztecauno1h.ts
+#EXTINF:-1 tvg-chno="54" tvg-name="Azteca Uno -2 Hrs",AZTECA UNO -2 HRS
+http://ip:puerto/canal/aztecauno2h.ts
+#EXTINF:-1 tvg-chno="55" tvg-name="Distrito Comedia",DISTRITO COMEDIA
+http://ip:puerto/canal/distritocomedia.ts
+#EXTINF:-1 tvg-chno="56" tvg-name="Comedy Central",COMEDY CENTRAL
+http://ip:puerto/canal/comedycentral.ts
+#EXTINF:-1 tvg-chno="57" tvg-name="Home & Health",HOME & HEALTH
+http://ip:puerto/canal/homehealth.ts
+#EXTINF:-1 tvg-chno="60" tvg-name="Star Channel (Antes Fox)",STAR CHANNEL
+http://ip:puerto/canal/fox.ts
+#EXTINF:-1 tvg-chno="61" tvg-name="Guatevision",GUATEVISION
+http://ip:puerto/canal/guatevision.ts
+#EXTINF:-1 tvg-chno="62" tvg-name="Azteca Cinema",AZTECA CINEMA
+http://ip:puerto/canal/aztecacinema.ts
+#EXTINF:-1 tvg-chno="63" tvg-name="Golden",GOLDEN
+http://ip:puerto/canal/golden.ts
+#EXTINF:-1 tvg-chno="64" tvg-name="Golden Edge",GOLDEN EDGE
+http://ip:puerto/canal/edge.ts
+#EXTINF:-1 tvg-chno="66" tvg-name="Studio Universal",STUDIO UNIVERSAL
+http://ip:puerto/canal/studiouniversal.ts
+#EXTINF:-1 tvg-chno="66" tvg-name="Universal TV",UNIVERSAL TV
+http://ip:puerto/canal/universal.ts
+#EXTINF:-1 tvg-chno="67" tvg-name="Cinema Platino",CINEMA PLATINO
+http://ip:puerto/canal/cinemaplatino.ts
+#EXTINF:-1 tvg-chno="69" tvg-name="Panico",PANICO
+http://ip:puerto/canal/panico.ts
+#EXTINF:-1 tvg-chno="70" tvg-name="Cine Mexicano",CINE MEXICANO
+http://ip:puerto/canal/cinemexicano.ts
+#EXTINF:-1 tvg-chno="71" tvg-name="De Pelicula",DE PELICULA
+http://ip:puerto/canal/depelicula.ts
+#EXTINF:-1 tvg-chno="73" tvg-name="FX",FX
+http://ip:puerto/canal/fx.ts
+#EXTINF:-1 tvg-chno="74" tvg-name="Cinecanal",CINECANAL
+http://ip:puerto/canal/cinecanal.ts
+#EXTINF:-1 tvg-chno="75" tvg-name="USA Network (Antes Syfy)",USA NETWORK
+http://ip:puerto/canal/syfy.ts
+#EXTINF:-1 tvg-chno="77" tvg-name="TVC",TVC
+http://ip:puerto/canal/tvc.ts
+#EXTINF:-1 tvg-chno="78" tvg-name="Enlace",ENLACE
+http://ip:puerto/canal/enlace.ts
+#EXTINF:-1 tvg-chno="80" tvg-name="Maria Vision",MARIA VISION
+http://ip:puerto/canal/mariavision.ts
+
