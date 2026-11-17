@@ -165,7 +165,7 @@ http://200.115.120.1:8000/play/ca066/index.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-chno="62" group-title="Peliculas",AZTECA CINEMA
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 
-#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-chno="63" group-title="Peliculas",GOLDEN
+#EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Peliculas",Golden Plus (1080p)
 http://45.5.118.152:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-chno="64" group-title="Peliculas",GOLDEN EDGE
