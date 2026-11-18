@@ -21,9 +21,6 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Nacionales",NU9VE
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="10" group-title="Entretenimiento",UNICABLE
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-chno="11" group-title="Nacionales",CANAL ONCE
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
@@ -36,23 +33,11 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD" tvg-chno="14" group-title="Culturales",CANAL DEL CONGRESO
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 
-#EXTINF:-1 tvg-chno="15" group-title="Educativos",APRENDE TV
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="IngenioTV.mx@SD" tvg-chno="16" group-title="Educativos",INGENIO TV
 https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 
-#EXTINF:-1 tvg-chno="17" group-title="Culturales",UNA VOZ CON TODOS
-# URL PENDIENTE
-
-#EXTINF:-1 tvg-chno="18" group-title="Culturales",TV UNAM
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-chno="19" group-title="Culturales",CANAL 22 DE MEXICO
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="20" group-title="Infantiles",CANAL ONCE NIÑOS
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-chno="21" group-title="Infantiles",BABY TV
 http://38.44.109.41:8003/play/a0eh
@@ -62,9 +47,6 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" tvg-chno="24" group-title="Infantiles",DISCOVERY KIDS
 http://181.224.200.5:2277/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-chno="25" group-title="Entretenimiento",ZUN
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
@@ -82,22 +64,13 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 tvg-chno="32" group-title="Noticias",FOX NEWS
-# URL PENDIENTE
-
-#EXTINF:-1 tvg-chno="33" group-title="Noticias",AZ NOTICIAS
-# URL PENDIENTE
+http://103.253.74.210:7070/stream/124/index.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-chno="34" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="35" group-title="Deportes",TVC DEPORTES
-# URL PENDIENTE
-
-#EXTINF:-1 tvg-chno="36" group-title="Información",GENERADO CANAL
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-chno="37" group-title="Deportes",ESPN 2
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-chno="38" group-title="Deportes",ESPN
 http://168.228.44.241:9997/play/a06p/index.m3u8
@@ -105,32 +78,17 @@ http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-chno="39" group-title="Deportes",FOX SPORTS
 http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-chno="40" group-title="Deportes",FOX SPORTS 2
-# URL PENDIENTE
-
-#EXTINF:-1 tvg-chno="41" group-title="Deportes",FOX SPORTS 3
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-chno="42" group-title="Musica",TELEHIT
 http://190.61.47.54:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-chno="43" group-title="Entretenimiento",RMS
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-chno="44" group-title="Musica",BANDAMAX
 https://streaming.onnethn.com/Bandamax/index.m3u8
-
-#EXTINF:-1 tvg-chno="45" group-title="Musica",VH1
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-chno="46" group-title="Musica",MTV
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-chno="47" group-title="Musica",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-chno="48" group-title="Entretenimiento",AZ CLIC
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-chno="49" group-title="Documentales",DISCOVERY CHANNEL
 http://45.171.64.30:6060/play/a032/index.m3u8
@@ -143,9 +101,6 @@ http://138.121.15.230:9002/NAT-GEO/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" group-title="Nacionales",AZTECA UNO +1
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-
-#EXTINF:-1 tvg-chno="54" group-title="Nacionales",AZTECA UNO +2
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-chno="55" group-title="Entretenimiento",DISTRITO COMEDIA
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
@@ -177,17 +132,8 @@ http://45.171.64.30:2000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Peliculas",Universal TV Latin America Colombia (1080p)
 http://38.134.250.110:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-chno="67" group-title="Peliculas",CINEMA PLATINO
-# URL PENDIENTE
-
-#EXTINF:-1 tvg-chno="68" group-title="Peliculas",CINEMA PLATINO 2
-# URL PENDIENTE
-
 #EXTINF:-1 tvg-id="Panico.mx@SD" tvg-chno="69" group-title="Peliculas",PANICO
 http://181.78.8.199:8000/play/a0bt/index.m3u8
-
-#EXTINF:-1 tvg-chno="70" group-title="Peliculas",CINE MEXICANO
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-chno="71" group-title="Peliculas",DE PELICULA
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
@@ -197,12 +143,6 @@ http://15.204.246.24:8080/FXHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-chno="74" group-title="Peliculas",CINECANAL
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-
-#EXTINF:-1 tvg-chno="75" group-title="Entretenimiento",SYFY
-# URL PENDIENTE
-
-#EXTINF:-1 tvg-chno="77" group-title="Entretenimiento",TVC
-# URL PENDIENTE
 
 #EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-chno="78" group-title="Religiosos",ENLACE
 http://45.5.117.57:8999/play/a01c/index.m3u8
