@@ -6,9 +6,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-chno="3" group-title="Nacionales",AZTECA UNO
 http://38.44.109.41:8003/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" group-title="Nacionales",FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="Nacionales",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
@@ -17,9 +14,6 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-chno="7" group-title="Nacionales",AZTECA 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
-
-#EXTINF:-1 tvg-chno="9" group-title="Nacionales",NU9VE
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-chno="11" group-title="Nacionales",CANAL ONCE
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
@@ -38,9 +32,6 @@ https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41
 
 #EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-chno="19" group-title="Culturales",CANAL 22 DE MEXICO
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-chno="21" group-title="Infantiles",BABY TV
-http://38.44.109.41:8003/play/a0eh
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-chno="23" group-title="Infantiles",DISNEY CHANNEL
 http://45.166.93.156:9999/play/a0f3/index.m3u8
@@ -174,6 +165,12 @@ https://streaming.onnethn.com/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Documentales",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entretenimiento",Historia (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America (1080p)
+http://181.225.190.242:8000/play/a023
 
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@Panregional" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Infantiles",DreamWorks Channel Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
