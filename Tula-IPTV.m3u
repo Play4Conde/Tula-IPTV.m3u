@@ -9,7 +9,7 @@ http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Nacionales",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5 (Mexico) XET-TDT (1080p)
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="Nacionales",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-chno="6" group-title="Nacionales",IMAGEN TV
