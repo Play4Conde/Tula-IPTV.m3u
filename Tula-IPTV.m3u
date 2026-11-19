@@ -196,3 +196,6 @@ http://186.33.1.71:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Entretenimiento",Film & Arts HD
 http://45.228.234.62:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV
+http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
