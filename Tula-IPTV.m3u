@@ -19,7 +19,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" group-title="Nacionales",NU9VE
-https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-chno="11" group-title="Nacionales",CANAL ONCE
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
