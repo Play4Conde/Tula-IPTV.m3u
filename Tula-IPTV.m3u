@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-chno="2" group-title="Nacionales",CANAL DE LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-chno="3" group-title="Nacionales",AZTECA UNO
-http://38.44.109.41:8003/play/a033/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="Nacionales",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
