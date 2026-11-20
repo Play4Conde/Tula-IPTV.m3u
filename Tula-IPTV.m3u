@@ -199,3 +199,6 @@ http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Nacionales",Azteca UNO SD
 http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls
+
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/8QZ9Q9Q.png" group-title="Infantil",Cartoonito
+https://flive.lat:8443/live/tula5/27628617/120296.ts
